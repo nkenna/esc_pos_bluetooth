@@ -12,3 +12,4 @@ Thank you for your collaboration!
 | MHT-P26 |  | 0.1.1 | [No issues](https://github.com/andrey-ushakov/esc_pos_bluetooth/issues/1#issuecomment-597723277) |
 | ER-80 |  | 0.1.1 | [No issues](https://github.com/andrey-ushakov/esc_pos_bluetooth/issues/1#issuecomment-597723277) |
 | [Seiko RP-D10](https://www.sii.co.jp/sps/eg/product/unit/rpd_series.html) | | | [Printer not listed during scan](https://github.com/andrey-ushakov/esc_pos_printer/issues/48) |
+| DTP MPT-II mobile printer |  | 0.1.1 | printer not listed during scan in IOS. Asks for pairing code or passkey if listed in android. Also in android, it always shows incorrect passkey |
